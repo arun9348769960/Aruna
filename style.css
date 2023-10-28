@@ -1,0 +1,17 @@
+h2{
+    color: green;
+}
+
+p{
+    color: darkviolet;
+}
+
+button{
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+}
+
+body{
+    background-color: black;
+}
